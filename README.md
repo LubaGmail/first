@@ -1,3 +1,17 @@
+# Install
+npm cache clean
+npm i -g @angular/cli
+ng new first --routing --style=scss
+code .
+ng serve -o         //open
+
+ng g c sidebar
+
+ng g s data
+
+
+
+--------------------------
 # First
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
